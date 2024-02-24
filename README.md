@@ -1,3 +1,2 @@
 # KaliB
-New test 
-Owner 0x00C8E69a74241BB0b4A292Bb2656a2bd51965b3e 
+GET wss://SNI_bug_host/ HTTP/1.1[crlf]Host: at1-ws.sshmax.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
